@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/test_charts.o
+debug/test_dev.o
+debug/test_env.o
+debug/test_item.o
+debug/test_item_data.o
+debug/test_type.o
+debug/moc_mainwindow.o
+debug/moc_test_charts.o

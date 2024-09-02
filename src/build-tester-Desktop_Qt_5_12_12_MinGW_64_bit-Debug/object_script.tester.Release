@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/test_charts.o
+release/test_dev.o
+release/test_env.o
+release/test_item.o
+release/test_item_data.o
+release/test_type.o
+release/moc_mainwindow.o
+release/moc_test_charts.o
